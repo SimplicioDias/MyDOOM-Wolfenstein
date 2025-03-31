@@ -61,4 +61,5 @@ class ObjectRenderer:
             3: self.get_texture('resources/textures/wall_3.png'),
             4: self.get_texture('resources/textures/wall_4.png'),
             5: self.get_texture('resources/textures/wall_5.png'),
+            6: self.get_texture('resources/textures/corinthians.png'),
         }
